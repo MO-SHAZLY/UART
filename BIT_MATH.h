@@ -2,7 +2,7 @@
  * BIT_MATH.h
  *
  *  Created on: Dec 12, 2020
- *      Author: Al Badr
+ *      Author: m-elshazly
  */
 
 #ifndef BIT_MATH_H_
